@@ -1,1 +1,1 @@
-"Este proyecto lo hice hace tres años para enseñarle a mi sobrino a programar. En realidad, también lo hice para aprender yo mismo. Fue de las primeras cosas que escribí en código. No sabía mucho, pero sabía que quería entender."
+Este proyecto lo hice hace tres años para enseñarle a mi sobrino a programar. En realidad, también lo hice para aprender yo mismo. Fue de las primeras cosas que escribí en código. No sabía mucho, pero sabía que quería entender.
